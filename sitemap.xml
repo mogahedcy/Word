@@ -33,7 +33,7 @@
 
   <!-- صفحة المظلات -->
   <url>
-    <loc>https://aldeyarksa.tech/services/mazallat.html</loc>
+    <loc>https://aldeyarksa.tech/mazallat.html</loc>
     <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -47,13 +47,13 @@
 
   <!-- صفحة الخيام الملكية -->
   <url>
-    <loc>https://aldeyarksa.tech/services/khayyam.html</loc>
+    <loc>https://aldeyarksa.tech/khayyam.html</loc>
     <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <!-- صور صفحة الخيام الملكية -->
     <image:image>
-      <image:loc>https://aldeyarksa.tech/images/services/khayyam.jpg</image:loc>
+      <image:loc>https://aldeyarksa.tech/images/khayyam.jpg</image:loc>
       <image:caption>خيام ملكية فاخرة</image:caption>
       <image:title>خيام ملكية</image:title>
     </image:image>
@@ -61,7 +61,7 @@
 
   <!-- صفحة السواتر -->
   <url>
-    <loc>https://aldeyarksa.tech/services/sawater.html</loc>
+    <loc>https://aldeyarksa.tech/sawater.html</loc>
     <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -75,7 +75,7 @@
 
   <!-- صفحة البرجولات -->
   <url>
-    <loc>https://aldeyarksa.tech/services/pergolas.html</loc>
+    <loc>https://aldeyarksa.tech/pergolas.html</loc>
     <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -89,7 +89,7 @@
 
   <!-- صفحة بيوت الشعر -->
   <url>
-    <loc>https://aldeyarksa.tech/services/byoot_shaar.html</loc>
+    <loc>https://aldeyarksa.tech/byoot_shaar.html</loc>
     <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -103,7 +103,7 @@
 
   <!-- صفحة تنسيق الحدائق -->
   <url>
-    <loc>https://aldeyarksa.tech/services/landscaping.html</loc>
+    <loc>https://aldeyarksa.tech/landscaping.html</loc>
     <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
