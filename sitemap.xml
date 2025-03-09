@@ -1,46 +1,159 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- الصفحة الرئيسية -->
   <url>
     <loc>https://aldeyarksa.tech/</loc>
-    <lastmod>2024-07-01</lastmod>
+    <lastmod>2024-07-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <!-- صور الصفحة الرئيسية -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/logo.png</image:loc>
+      <image:caption>شعار مؤسسة الديار العالمية</image:caption>
+      <image:title>شعار المؤسسة</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/slider/slide1.jpg</image:loc>
+      <image:caption>مظلات وسواتر الديار العالمية</image:caption>
+      <image:title>مظلات وسواتر</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/slider/slide2.jpg</image:loc>
+      <image:caption>خيام ملكية فاخرة</image:caption>
+      <image:title>خيام ملكية</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/slider/slide3.jpg</image:loc>
+      <image:caption>برجولات خشبية</image:caption>
+      <image:title>برجولات</image:title>
+    </image:image>
   </url>
+
+  <!-- صفحة المظلات -->
   <url>
-    <loc>https://aldeyarksa.tech/mazallat.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <loc>https://aldeyarksa.tech/services/mazallat.html</loc>
+    <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <!-- صور صفحة المظلات -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/services/mazallat.jpg</image:loc>
+      <image:caption>مظلات مؤسسة الديار العالمية</image:caption>
+      <image:title>مظلات</image:title>
+    </image:image>
   </url>
+
+  <!-- صفحة الخيام الملكية -->
   <url>
-    <loc>https://aldeyarksa.tech/sawater.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <loc>https://aldeyarksa.tech/services/khayyam.html</loc>
+    <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <!-- صور صفحة الخيام الملكية -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/services/khayyam.jpg</image:loc>
+      <image:caption>خيام ملكية فاخرة</image:caption>
+      <image:title>خيام ملكية</image:title>
+    </image:image>
   </url>
+
+  <!-- صفحة السواتر -->
   <url>
-    <loc>https://aldeyarksa.tech/pergolas.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <loc>https://aldeyarksa.tech/services/sawater.html</loc>
+    <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <!-- صور صفحة السواتر -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/services/sawater.jpg</image:loc>
+      <image:caption>سواتر مؤسسة الديار العالمية</image:caption>
+      <image:title>سواتر</image:title>
+    </image:image>
   </url>
+
+  <!-- صفحة البرجولات -->
   <url>
-    <loc>https://aldeyarksa.tech/khayyam.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <loc>https://aldeyarksa.tech/services/pergolas.html</loc>
+    <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <!-- صور صفحة البرجولات -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/services/pergolas.jpg</image:loc>
+      <image:caption>برجولات خشبية</image:caption>
+      <image:title>برجولات</image:title>
+    </image:image>
   </url>
+
+  <!-- صفحة بيوت الشعر -->
   <url>
-    <loc>https://aldeyarksa.tech/byoot_shaar.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <loc>https://aldeyarksa.tech/services/byoot_shaar.html</loc>
+    <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <!-- صور صفحة بيوت الشعر -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/services/byoot_shaar.jpg</image:loc>
+      <image:caption>بيوت شعر مؤسسة الديار العالمية</image:caption>
+      <image:title>بيوت شعر</image:title>
+    </image:image>
   </url>
+
+  <!-- صفحة تنسيق الحدائق -->
   <url>
-    <loc>https://aldeyarksa.tech/landscaping.html</loc>
-    <lastmod>2024-07-01</lastmod>
+    <loc>https://aldeyarksa.tech/services/landscaping.html</loc>
+    <lastmod>2024-07-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <!-- صور صفحة تنسيق الحدائق -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/services/landscaping.jpg</image:loc>
+      <image:caption>تنسيق حدائق مؤسسة الديار العالمية</image:caption>
+      <image:title>تنسيق حدائق</image:title>
+    </image:image>
   </url>
+
+  <!-- صفحة من نحن -->
+  <url>
+    <loc>https://aldeyarksa.tech/#about</loc>
+    <lastmod>2024-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <!-- صور صفحة من نحن -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/about-us.jpg</image:loc>
+      <image:caption>فريق مؤسسة الديار العالمية</image:caption>
+      <image:title>من نحن</image:title>
+    </image:image>
+  </url>
+
+  <!-- صفحة المشاريع -->
+  <url>
+    <loc>https://aldeyarksa.tech/#projects</loc>
+    <lastmod>2024-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <!-- صور صفحة المشاريع -->
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/projects/project1.jpg</image:loc>
+      <image:caption>مشروع مظلات سيارات</image:caption>
+      <image:title>مظلات سيارات</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://aldeyarksa.tech/images/projects/project2.jpg</image:loc>
+      <image:caption>خيمة ملكية فاخرة</image:caption>
+      <image:title>خيمة ملكية</image:title>
+    </image:image>
+  </url>
+
+  <!-- صفحة اتصل بنا -->
+  <url>
+    <loc>https://aldeyarksa.tech/#contact</loc>
+    <lastmod>2024-07-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
 </urlset>
